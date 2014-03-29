@@ -1,5 +1,5 @@
 var disqus_shortname = 'rockminer';			//Short Name of disqus, this parameter is for disqus comment box.
-var hostbase = 'http://rockxie.github.io';		//The absolute root address of your blog without '/' in the end.
+var hostbase = 'http://blog.rockminer.com';		//The absolute root address of your blog without '/' in the end.
 var githubname = 'rockxie';						//Your username of GitHub.
 var repos = 'rockxie.github.io';					//Name of repository that contains your blog.
 var sitetitle = 'RockMiner';						//Name of your blog.

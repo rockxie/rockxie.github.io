@@ -237,7 +237,7 @@ header span.searchbar {
   padding: 10px;
   background: #e1e1e1;
   right: 0;
-  bottom: -40px;
+  bottom: 20px;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;

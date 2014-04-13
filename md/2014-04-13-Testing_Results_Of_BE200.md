@@ -1,5 +1,5 @@
 
-We've got the results of testing board,it seems not very so good,but sill can be accepted.We will receive more chips at next weekend if things are going well .
+We've got the results of one good testing board,it seems not very so good,but sill can be accepted.We will receive more chips at next weekend if things are going well .
 
 Results:
 
@@ -13,7 +13,5 @@ Results:
 - Power consumption on wall:0.684/0.8 = 0.855W/G
 	- Adding other components loss about 1KW/Thash
 
-
-
-
+Tips:this result is not very accurate just for reference.
 

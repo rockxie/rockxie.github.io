@@ -1,5 +1,5 @@
 
-We've got the results of one good testing board,it seems not very so good,but sill can be accepted.We will receive more chips at next weekend if things are going well .
+We've got the results of one good testing board,it seems not very good,but sill can be accepted.We will receive more chips at next weekend if things are going well .
 
 Results:
 

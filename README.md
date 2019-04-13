@@ -1,1 +1,1 @@
-* code for blog.rockminer.com
+* code for rockxie.com
